@@ -1,0 +1,56 @@
+repo_name: mollypi/playwright-python-tutorial
+report_id: fdafa47464c5c7495f42182057e3097a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:46:14+00:00'
+requested_by: AutomationPanda
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mollypi/playwright-python-tutorial
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/playwright-python-tutorial
+  detection_source: Repo Metadata
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/mollypi/playwright-python-tutorial/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Pandy Knight
+  last_updated_on: 2022-03-07 22:58:14.000000000 Z
+- name: Websockets
+  description: A technology that makes it possible to open a two-way interactive communication
+  website_url: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+  version: '10.1'
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4220/LNPwoiWi_400x400.jpg
+  detection_source_url: https://github.com/mollypi/playwright-python-tutorial/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Pandy Knight
+  last_updated_on: 2021-11-29 15:35:18.000000000 Z
